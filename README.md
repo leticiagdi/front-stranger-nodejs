@@ -14,7 +14,6 @@ Este projeto simula o sistema interno do Laboratório de Hawkins para registro e
 - 🚨 **Status de Monitoramento** com destaque visual para situações críticas
 - 🗑️ **Exclusão de Registros** com confirmação de segurança
 - 🌙 **Interface Dark Mode** com tema científico
-- ⚡ **Efeitos Visuais** de glitch no cabeçalho
 
 ## 🎨 Características Visuais
 
@@ -28,7 +27,6 @@ Este projeto simula o sistema interno do Laboratório de Hawkins para registro e
 - **React** 19.2.0
 - **Bootstrap** 5.3.3 (CDN)
 - **CSS3** com animações customizadas
-- **Create React App** como base
 
 ## 🚀 Como Executar
 
@@ -109,8 +107,6 @@ src/
 Executa a aplicação em modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-### `npm test`
-Inicia o executor de testes em modo interativo.
 
 ### `npm run build`
 Compila a aplicação para produção na pasta `build`.
@@ -125,9 +121,6 @@ Compila a aplicação para produção na pasta `build`.
 - ✅ Tema dark completo
 - ✅ Validações e alertas personalizados
 
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como parte do curso TEPIII.
 
 ## 🎭 Inspiração
 
@@ -136,3 +129,4 @@ Baseado no universo de **Stranger Things** (Netflix), especificamente no Laborat
 ---
 
 > **⚠️ CLASSIFICADO** - Este sistema é fictício e foi criado apenas para demonstração educacional.
+
