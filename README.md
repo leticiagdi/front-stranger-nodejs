@@ -40,7 +40,7 @@ Este projeto simula o sistema interno do Laboratório de Hawkins para registro e
 1. Clone o repositório:
 ```bash
 git clone https://github.com/MellMatsuda/TEPIII-Aula-React.git
-cd TEPIII-Aula-React
+cd stranger-nodejs
 ```
 
 2. Instale as dependências:
@@ -129,4 +129,5 @@ Baseado no universo de **Stranger Things** (Netflix), especificamente no Laborat
 ---
 
 > **⚠️ CLASSIFICADO** - Este sistema é fictício e foi criado apenas para demonstração educacional.
+
 
